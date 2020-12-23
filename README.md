@@ -1,0 +1,1 @@
+# Neural-Network-Dense-NN-for-Human-activity-recognition-from-CSV-Files-in-python
